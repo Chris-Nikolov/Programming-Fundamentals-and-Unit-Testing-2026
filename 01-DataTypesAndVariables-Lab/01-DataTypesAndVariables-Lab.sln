@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-HelloCSharp", "01-HelloCSharp\01-HelloCSharp.csproj", "{C8F34C6E-28D2-45FB-BF13-F56EEE4206D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_HelloCSharp", "T01_HelloCSharp\T01_HelloCSharp.csproj", "{C8F34C6E-28D2-45FB-BF13-F56EEE4206D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
