@@ -1,0 +1,12 @@
+## C#
+bin/
+obj/
+
+## Rider
+.idea/
+*.sln.iml
+*.user
+*.useros
+
+## macOS
+.DS_Store
