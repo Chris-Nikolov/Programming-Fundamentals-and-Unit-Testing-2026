@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07_PersonInfo", "T07_Perso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_TownInfo", "T08_TownInfo\T08_TownInfo.csproj", "{DBF98784-D7C4-4988-BFCB-A8E31BE5A96C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T09_DaysToMinutes", "T09_DaysToMinutes\T09_DaysToMinutes.csproj", "{7949E948-00F2-40B1-BFCE-1C3838A4D791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T10_CalculateSpeed", "T10_CalculateSpeed\T10_CalculateSpeed.csproj", "{EDE51896-8941-4758-8BCF-AECE4AE68843}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{DBF98784-D7C4-4988-BFCB-A8E31BE5A96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBF98784-D7C4-4988-BFCB-A8E31BE5A96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBF98784-D7C4-4988-BFCB-A8E31BE5A96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7949E948-00F2-40B1-BFCE-1C3838A4D791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7949E948-00F2-40B1-BFCE-1C3838A4D791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7949E948-00F2-40B1-BFCE-1C3838A4D791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7949E948-00F2-40B1-BFCE-1C3838A4D791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE51896-8941-4758-8BCF-AECE4AE68843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE51896-8941-4758-8BCF-AECE4AE68843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE51896-8941-4758-8BCF-AECE4AE68843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE51896-8941-4758-8BCF-AECE4AE68843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
