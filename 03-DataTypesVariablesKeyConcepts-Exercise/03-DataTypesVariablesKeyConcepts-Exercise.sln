@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_Redecorating", "T03_Red
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04_FoodDelivery", "T04_FoodDelivery\T04_FoodDelivery.csproj", "{10BB12BC-B6D1-4819-AC78-9F32C7B54AAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_BasketballEquipment", "T05_BasketballEquipment\T05_BasketballEquipment.csproj", "{1943CA50-CEA7-46A2-9C14-E680B516E9AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06_Aquarium", "T06_Aquarium\T06_Aquarium.csproj", "{C425FE09-9454-47C2-AA54-2EB94EBA5AB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{10BB12BC-B6D1-4819-AC78-9F32C7B54AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10BB12BC-B6D1-4819-AC78-9F32C7B54AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10BB12BC-B6D1-4819-AC78-9F32C7B54AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1943CA50-CEA7-46A2-9C14-E680B516E9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1943CA50-CEA7-46A2-9C14-E680B516E9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1943CA50-CEA7-46A2-9C14-E680B516E9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1943CA50-CEA7-46A2-9C14-E680B516E9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C425FE09-9454-47C2-AA54-2EB94EBA5AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C425FE09-9454-47C2-AA54-2EB94EBA5AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C425FE09-9454-47C2-AA54-2EB94EBA5AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C425FE09-9454-47C2-AA54-2EB94EBA5AB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
