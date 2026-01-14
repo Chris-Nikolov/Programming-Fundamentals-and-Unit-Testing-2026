@@ -2,6 +2,18 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_FreezingWeather", "T01_FreezingWeather\T01_FreezingWeather.csproj", "{CDDA97F6-7DD6-401F-9A8A-5DAB80014738}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_EvenOrOdd", "T02_EvenOrOdd\T02_EvenOrOdd.csproj", "{9EAD15B7-0610-4A9C-B183-F772038D9570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_NumbersAsWords", "T03_NumbersAsWords\T03_NumbersAsWords.csproj", "{B590120A-8385-49FF-A2CD-03B434A24032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04_GreaterNumber", "T04_GreaterNumber\T04_GreaterNumber.csproj", "{5C66AC26-31BD-43B3-B021-120BFF8D6459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_GuessThePassword", "T05_GuessThePassword\T05_GuessThePassword.csproj", "{A105431A-17FC-417E-8485-AE29A594CA99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06_BoilingWater", "T06_BoilingWater\T06_BoilingWater.csproj", "{213FC550-AA7B-4620-BF2E-7F266CC9EF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07_SpeedInfo", "T07_SpeedInfo\T07_SpeedInfo.csproj", "{ED9E03F5-3D21-4CC3-834A-3F3119CB61E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +24,29 @@ Global
 		{CDDA97F6-7DD6-401F-9A8A-5DAB80014738}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDDA97F6-7DD6-401F-9A8A-5DAB80014738}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDDA97F6-7DD6-401F-9A8A-5DAB80014738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAD15B7-0610-4A9C-B183-F772038D9570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAD15B7-0610-4A9C-B183-F772038D9570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAD15B7-0610-4A9C-B183-F772038D9570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAD15B7-0610-4A9C-B183-F772038D9570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B590120A-8385-49FF-A2CD-03B434A24032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B590120A-8385-49FF-A2CD-03B434A24032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B590120A-8385-49FF-A2CD-03B434A24032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B590120A-8385-49FF-A2CD-03B434A24032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C66AC26-31BD-43B3-B021-120BFF8D6459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C66AC26-31BD-43B3-B021-120BFF8D6459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C66AC26-31BD-43B3-B021-120BFF8D6459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C66AC26-31BD-43B3-B021-120BFF8D6459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A105431A-17FC-417E-8485-AE29A594CA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A105431A-17FC-417E-8485-AE29A594CA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A105431A-17FC-417E-8485-AE29A594CA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A105431A-17FC-417E-8485-AE29A594CA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213FC550-AA7B-4620-BF2E-7F266CC9EF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213FC550-AA7B-4620-BF2E-7F266CC9EF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213FC550-AA7B-4620-BF2E-7F266CC9EF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213FC550-AA7B-4620-BF2E-7F266CC9EF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED9E03F5-3D21-4CC3-834A-3F3119CB61E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9E03F5-3D21-4CC3-834A-3F3119CB61E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9E03F5-3D21-4CC3-834A-3F3119CB61E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9E03F5-3D21-4CC3-834A-3F3119CB61E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
