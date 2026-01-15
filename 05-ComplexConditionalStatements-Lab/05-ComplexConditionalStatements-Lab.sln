@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_Marketplace", "T01_Marketplace\T01_Marketplace.csproj", "{451043C7-E03F-44B8-A1FF-859ABC771F02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_LargestNumberOutOfThree", "T02_LargestNumberOutOfThree\T02_LargestNumberOutOfThree.csproj", "{7156928C-58CE-4465-B160-387330E15F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_BonusScore", "T03_BonusScore\T03_BonusScore.csproj", "{64B60111-699C-4FBF-8CC7-81BF9E76A277}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{451043C7-E03F-44B8-A1FF-859ABC771F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{451043C7-E03F-44B8-A1FF-859ABC771F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{451043C7-E03F-44B8-A1FF-859ABC771F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7156928C-58CE-4465-B160-387330E15F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7156928C-58CE-4465-B160-387330E15F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7156928C-58CE-4465-B160-387330E15F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7156928C-58CE-4465-B160-387330E15F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B60111-699C-4FBF-8CC7-81BF9E76A277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B60111-699C-4FBF-8CC7-81BF9E76A277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B60111-699C-4FBF-8CC7-81BF9E76A277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B60111-699C-4FBF-8CC7-81BF9E76A277}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
