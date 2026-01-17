@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07_WorkingHours", "T07_Wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_FruitOrVegetable", "T08_FruitOrVegetable\T08_FruitOrVegetable.csproj", "{03DDFEC7-56DB-44D7-B21F-E243AC301141}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T09_SumSeconds", "T09_SumSeconds\T09_SumSeconds.csproj", "{7746DE67-8382-4A93-95E6-59D4A617250D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T10_SummerOutfit", "T10_SummerOutfit\T10_SummerOutfit.csproj", "{8B601DE9-A59A-4B8B-9A4F-CD14B91B1C02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{03DDFEC7-56DB-44D7-B21F-E243AC301141}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03DDFEC7-56DB-44D7-B21F-E243AC301141}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03DDFEC7-56DB-44D7-B21F-E243AC301141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7746DE67-8382-4A93-95E6-59D4A617250D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7746DE67-8382-4A93-95E6-59D4A617250D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7746DE67-8382-4A93-95E6-59D4A617250D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7746DE67-8382-4A93-95E6-59D4A617250D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B601DE9-A59A-4B8B-9A4F-CD14B91B1C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B601DE9-A59A-4B8B-9A4F-CD14B91B1C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B601DE9-A59A-4B8B-9A4F-CD14B91B1C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B601DE9-A59A-4B8B-9A4F-CD14B91B1C02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
