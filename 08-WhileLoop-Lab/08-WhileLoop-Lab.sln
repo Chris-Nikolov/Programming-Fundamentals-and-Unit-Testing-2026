@@ -8,6 +8,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_OddNumber", "T03_OddNum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04_Sequence", "T04_Sequence\T04_Sequence.csproj", "{D6C44CCC-EC6E-4E5C-B173-8C9DD010313E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_SumDigits", "T05_SumDigits\T05_SumDigits.csproj", "{9B87F148-0EC2-46AE-84F0-B6DA8D2F19A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06_NumbersInRange", "T06_NumbersInRange\T06_NumbersInRange.csproj", "{DCA380B9-A6C9-455F-A584-25D350191058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07_NumberProcessor", "T07_NumberProcessor\T07_NumberProcessor.csproj", "{889BE46D-0AB6-4096-BB00-EDFA9D6FC05E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +36,17 @@ Global
 		{D6C44CCC-EC6E-4E5C-B173-8C9DD010313E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6C44CCC-EC6E-4E5C-B173-8C9DD010313E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6C44CCC-EC6E-4E5C-B173-8C9DD010313E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B87F148-0EC2-46AE-84F0-B6DA8D2F19A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B87F148-0EC2-46AE-84F0-B6DA8D2F19A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B87F148-0EC2-46AE-84F0-B6DA8D2F19A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B87F148-0EC2-46AE-84F0-B6DA8D2F19A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA380B9-A6C9-455F-A584-25D350191058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA380B9-A6C9-455F-A584-25D350191058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA380B9-A6C9-455F-A584-25D350191058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA380B9-A6C9-455F-A584-25D350191058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889BE46D-0AB6-4096-BB00-EDFA9D6FC05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889BE46D-0AB6-4096-BB00-EDFA9D6FC05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889BE46D-0AB6-4096-BB00-EDFA9D6FC05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889BE46D-0AB6-4096-BB00-EDFA9D6FC05E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
