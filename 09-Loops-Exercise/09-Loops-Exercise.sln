@@ -8,6 +8,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_BiggestNumber", "T03_Bi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04_VowelSum", "T04_VowelSum\T04_VowelSum.csproj", "{F0BC5B5B-3EF4-4E5A-B271-746AEE985A1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_Division", "T05_Division\T05_Division.csproj", "{B2CDFCDC-7764-4DBE-AC5E-9997768ABF60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06_SpecialNumber", "T06_SpecialNumber\T06_SpecialNumber.csproj", "{61ABF10D-6C6C-4E25-BA83-86A3F71BFB89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07_SpecialBonus", "T07_SpecialBonus\T07_SpecialBonus.csproj", "{C65F1062-0323-4D4A-99AA-F26808E74CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_AccountBalance", "T08_AccountBalance\T08_AccountBalance.csproj", "{63E38927-87C8-4242-8F50-8BA517F73810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +38,21 @@ Global
 		{F0BC5B5B-3EF4-4E5A-B271-746AEE985A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0BC5B5B-3EF4-4E5A-B271-746AEE985A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0BC5B5B-3EF4-4E5A-B271-746AEE985A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CDFCDC-7764-4DBE-AC5E-9997768ABF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CDFCDC-7764-4DBE-AC5E-9997768ABF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CDFCDC-7764-4DBE-AC5E-9997768ABF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CDFCDC-7764-4DBE-AC5E-9997768ABF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61ABF10D-6C6C-4E25-BA83-86A3F71BFB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61ABF10D-6C6C-4E25-BA83-86A3F71BFB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61ABF10D-6C6C-4E25-BA83-86A3F71BFB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61ABF10D-6C6C-4E25-BA83-86A3F71BFB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65F1062-0323-4D4A-99AA-F26808E74CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65F1062-0323-4D4A-99AA-F26808E74CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65F1062-0323-4D4A-99AA-F26808E74CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65F1062-0323-4D4A-99AA-F26808E74CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E38927-87C8-4242-8F50-8BA517F73810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E38927-87C8-4242-8F50-8BA517F73810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E38927-87C8-4242-8F50-8BA517F73810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E38927-87C8-4242-8F50-8BA517F73810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
