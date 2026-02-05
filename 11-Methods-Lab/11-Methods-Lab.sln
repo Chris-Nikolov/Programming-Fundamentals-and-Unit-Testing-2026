@@ -8,7 +8,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_PrintingTriangle", "T03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04_CalculateRectangleArea", "T04_CalculateRectangleArea\T04_CalculateRectangleArea.csproj", "{0FD40CBB-6F1E-458F-B8B6-83A61057D714}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Т05_RepeatString", "Т05_RepeatString\Т05_RepeatString.csproj", "{AF844F43-8F5D-44B0-8B66-764C45930F80}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_RepeatString", "T05_RepeatString\T05_RepeatString.csproj", "{AF844F43-8F5D-44B0-8B66-764C45930F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06_MathPower", "T06_MathPower\T06_MathPower.csproj", "{3B9FD780-C858-428A-A243-2D6A2A7D6326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07_GreaterOfTwoValues", "T07_GreaterOfTwoValues\T07_GreaterOfTwoValues.csproj", "{0F1C5913-DE04-44CB-8F74-CC614C5A877D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +40,13 @@ Global
 		{AF844F43-8F5D-44B0-8B66-764C45930F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF844F43-8F5D-44B0-8B66-764C45930F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF844F43-8F5D-44B0-8B66-764C45930F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B9FD780-C858-428A-A243-2D6A2A7D6326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9FD780-C858-428A-A243-2D6A2A7D6326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9FD780-C858-428A-A243-2D6A2A7D6326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9FD780-C858-428A-A243-2D6A2A7D6326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1C5913-DE04-44CB-8F74-CC614C5A877D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1C5913-DE04-44CB-8F74-CC614C5A877D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1C5913-DE04-44CB-8F74-CC614C5A877D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1C5913-DE04-44CB-8F74-CC614C5A877D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
