@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_VowelsCount", "T01_VowelsCount\T01_VowelsCount.csproj", "{55C95DDB-8979-484F-BF2E-ECF5E635E0CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_FactorialDivision", "T02_FactorialDivision\T02_FactorialDivision.csproj", "{2EE7CEE5-98A1-45A2-B482-3669A3721923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_MultiplicationSign", "T03_MultiplicationSign\T03_MultiplicationSign.csproj", "{F8328EAC-57E1-4C69-A60B-10119A125124}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{55C95DDB-8979-484F-BF2E-ECF5E635E0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55C95DDB-8979-484F-BF2E-ECF5E635E0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55C95DDB-8979-484F-BF2E-ECF5E635E0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE7CEE5-98A1-45A2-B482-3669A3721923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE7CEE5-98A1-45A2-B482-3669A3721923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE7CEE5-98A1-45A2-B482-3669A3721923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE7CEE5-98A1-45A2-B482-3669A3721923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8328EAC-57E1-4C69-A60B-10119A125124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8328EAC-57E1-4C69-A60B-10119A125124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8328EAC-57E1-4C69-A60B-10119A125124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8328EAC-57E1-4C69-A60B-10119A125124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
