@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_EqualArrays", "T01_Equa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_CommonElements", "T02_CommonElements\T02_CommonElements.csproj", "{7BF297B0-A64D-4F49-B4D2-D0C2CC205FEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_CondenseArrayToNumber", "T03_CondenseArrayToNumber\T03_CondenseArrayToNumber.csproj", "{AA699779-A20A-4C4F-9FF2-BE93C1955D24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04_MagicSum", "T04_MagicSum\T04_MagicSum.csproj", "{261FD862-050C-4473-A4B6-8C9FB0F7C79C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{7BF297B0-A64D-4F49-B4D2-D0C2CC205FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BF297B0-A64D-4F49-B4D2-D0C2CC205FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BF297B0-A64D-4F49-B4D2-D0C2CC205FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA699779-A20A-4C4F-9FF2-BE93C1955D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA699779-A20A-4C4F-9FF2-BE93C1955D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA699779-A20A-4C4F-9FF2-BE93C1955D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA699779-A20A-4C4F-9FF2-BE93C1955D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261FD862-050C-4473-A4B6-8C9FB0F7C79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261FD862-050C-4473-A4B6-8C9FB0F7C79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261FD862-050C-4473-A4B6-8C9FB0F7C79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261FD862-050C-4473-A4B6-8C9FB0F7C79C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
