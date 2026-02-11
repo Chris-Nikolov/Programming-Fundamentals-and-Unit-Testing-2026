@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_SumAnArray", "T02_SumAn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_ReverseAnArray", "T03_ReverseAnArray\T03_ReverseAnArray.csproj", "{9863C62B-41CA-43D6-97EA-E7124CABE27C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04_EvenAndOddSubtraction", "T04_EvenAndOddSubtraction\T04_EvenAndOddSubtraction.csproj", "{4A284E52-AC71-41DD-BA63-2C56A2087E10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{9863C62B-41CA-43D6-97EA-E7124CABE27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9863C62B-41CA-43D6-97EA-E7124CABE27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9863C62B-41CA-43D6-97EA-E7124CABE27C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A284E52-AC71-41DD-BA63-2C56A2087E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A284E52-AC71-41DD-BA63-2C56A2087E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A284E52-AC71-41DD-BA63-2C56A2087E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A284E52-AC71-41DD-BA63-2C56A2087E10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
