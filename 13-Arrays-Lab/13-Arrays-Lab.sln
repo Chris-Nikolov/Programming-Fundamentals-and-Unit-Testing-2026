@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_DayOfWeek", "T01_DayOfWeek\T01_DayOfWeek.csproj", "{AB4CD50D-2EAE-49B7-A568-66BE93FB68B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_SumAnArray", "T02_SumAnArray\T02_SumAnArray.csproj", "{A01D4182-25EB-4052-8BBA-785B43CE88DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_ReverseAnArray", "T03_ReverseAnArray\T03_ReverseAnArray.csproj", "{9863C62B-41CA-43D6-97EA-E7124CABE27C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{AB4CD50D-2EAE-49B7-A568-66BE93FB68B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB4CD50D-2EAE-49B7-A568-66BE93FB68B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB4CD50D-2EAE-49B7-A568-66BE93FB68B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01D4182-25EB-4052-8BBA-785B43CE88DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01D4182-25EB-4052-8BBA-785B43CE88DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01D4182-25EB-4052-8BBA-785B43CE88DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01D4182-25EB-4052-8BBA-785B43CE88DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9863C62B-41CA-43D6-97EA-E7124CABE27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9863C62B-41CA-43D6-97EA-E7124CABE27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9863C62B-41CA-43D6-97EA-E7124CABE27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9863C62B-41CA-43D6-97EA-E7124CABE27C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
