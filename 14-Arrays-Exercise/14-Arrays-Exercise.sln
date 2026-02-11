@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_EqualArrays", "T01_EqualArrays\T01_EqualArrays.csproj", "{4184A884-EBDB-4C40-9BD0-FDECC3789A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_CommonElements", "T02_CommonElements\T02_CommonElements.csproj", "{7BF297B0-A64D-4F49-B4D2-D0C2CC205FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4184A884-EBDB-4C40-9BD0-FDECC3789A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4184A884-EBDB-4C40-9BD0-FDECC3789A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4184A884-EBDB-4C40-9BD0-FDECC3789A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4184A884-EBDB-4C40-9BD0-FDECC3789A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF297B0-A64D-4F49-B4D2-D0C2CC205FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF297B0-A64D-4F49-B4D2-D0C2CC205FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF297B0-A64D-4F49-B4D2-D0C2CC205FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF297B0-A64D-4F49-B4D2-D0C2CC205FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
