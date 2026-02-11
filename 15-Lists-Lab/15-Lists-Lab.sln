@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_ChangeList", "T01_Chang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_ListOfProducts", "T02_ListOfProducts\T02_ListOfProducts.csproj", "{47E58D70-A950-4E21-8B7F-D488E0FB56A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_RemoveNegativesAndReverse", "T03_RemoveNegativesAndReverse\T03_RemoveNegativesAndReverse.csproj", "{F154188E-D4AC-42DA-BBAE-9254B17B6A3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{47E58D70-A950-4E21-8B7F-D488E0FB56A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47E58D70-A950-4E21-8B7F-D488E0FB56A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47E58D70-A950-4E21-8B7F-D488E0FB56A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F154188E-D4AC-42DA-BBAE-9254B17B6A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F154188E-D4AC-42DA-BBAE-9254B17B6A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F154188E-D4AC-42DA-BBAE-9254B17B6A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F154188E-D4AC-42DA-BBAE-9254B17B6A3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
